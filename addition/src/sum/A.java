@@ -5,5 +5,6 @@ public class A {
 	int sa;
 	int ba;
 	int ca;
+	int na;
 
 }
