@@ -6,5 +6,6 @@ public class A {
 	int ba;
 	int ca;
 	int na;
+	System.out.println("Welcome to pune......!");
 
 }
